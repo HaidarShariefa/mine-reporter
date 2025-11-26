@@ -1,0 +1,19 @@
+# PHP
+*.log
+
+# Database
+*.sql
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive files (uncomment if you have a config file with credentials)
+# config.php
