@@ -20,7 +20,7 @@ A web-based application for reporting and managing mine field information with r
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/HaidarShariefa/mine-reporter.git
    cd mine_reporter
    ```
 
